@@ -155,4 +155,11 @@ body {
   
 }
 
+#githubImage{
+    margin-bottom: 20px;
+    padding: 10px;
+}
 
+.rowAPI{
+    margin-top: 20px;
+}
